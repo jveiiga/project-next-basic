@@ -54,7 +54,7 @@ Middleware
   
 ## 📂 Referencias
   <details>
-    <summary>Decode #012</summary>
+    <summary>Decode #013</summary>
       - <a href="https://vercel.com/blog/nextjs-server-side-rendering-vs-static-generation">Next.js: Server-side Rendering vs. Static Generation</a> <br>
       - <a href="https://nextjs.org/learn/seo/crawling-and-indexing">Crawling and Indexing</a> <br>
       - <a href="https://www.toptal.com/react-hooks/stale-while-revalidate">Stale-while-revalidate</a> <br>
